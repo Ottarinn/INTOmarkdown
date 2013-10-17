@@ -31,8 +31,16 @@ https://github.com/Ottarinn/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
 
-
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Við notum eftirfarandi Open Source hugbúnað:
+
+
+1. Apache Open Office - Apache License 2.0 - www.openoffice.org
+2. VLC Media Player - GNU General Public License - www.videolan.org/vlc/
+3. Blender - GNU General Public License - www.blender.org
+4. Code::Blocks - GNU General Public License - www.codeblocks.org
+5. Mozilla Firefox - MPL - www.mozilla.org/firefox
+ 
 
 ## 5. Unnið með Git (2. hluti)
 
