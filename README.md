@@ -26,14 +26,10 @@ Skjámyndir af viðmóti meðlima.
 
 ## 3. Unnið með Git (1. hluti)
 
-Óttar forkaði fyrstur og bjó til lykilorð fyrir Ásgeir og Sigurjon og gekk það vandraeðalaust fyrir sig. Við nýttum svo 2 vim og Óttar Nano til þess að breyta kóðanum svo hann skrifi út nöfnin okkar.
+Óttar forkaði fyrstur og bjó til lykilorð fyrir Ásgeir og Sigurjon og gekk það vandraeðalaust fyrir sig. Við nýttum svo tveir vim en Óttar notaði Nano til þess að breyta kóðanum svo hann skrifi út nöfnin okkar.
 https://github.com/Ottarinn/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
-
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
-Við notum eftirfarandi Open Source hugbúnað:
-
 
 1. Apache Open Office - Apache License 2.0 - www.openoffice.org
 2. VLC Media Player - GNU General Public License - www.videolan.org/vlc/
