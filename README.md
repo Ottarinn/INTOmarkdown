@@ -35,10 +35,10 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 Við notum eftirfarandi Open Source hugbúnað:
 
 
-1. Apache Open Office - Apache License 2.0 - ![Open Office](www.openoffice.org)
-2. VLC Media Player - GNU General Public License - ![VLC Media Player](www.videolan.org/vlc/)
-3. Blender - GNU General Public License - ![Blender](www.blender.org)
-4. Code::Blocks - GNU General Public License - ![Code::Blocks](www.codeblocks.org)
+1. Apache Open Office - Apache License 2.0 - <www.openoffice.org>
+2. VLC Media Player - GNU General Public License - <www.videolan.org/vlc/>
+3. Blender - GNU General Public License - <www.blender.org>
+4. Code::Blocks - GNU General Public License - <www.codeblocks.org>
  
 
 ## 5. Unnið með Git (2. hluti)
