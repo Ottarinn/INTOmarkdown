@@ -22,15 +22,15 @@ Skjámyndir af viðmóti meðlima.
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Ásgeir náði að setja upp vim villulaust en Óttar lennti í vandræðum með vim sem við og tölvuþjónustan náði ekki að ráða fram úr svo hann nýtti sér nano editor. Sigurjon lennti í vandræðum með git vegna nettengingar en við náðum svo að laga það með því að sækja pakkann aftur.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Óttar forkaði fyrstur og bjó til lykilorð fyrir Ásgeir og Sigurjon og gekk það vandraeðalaust fyrir sig. Við nýttum svo 2 vim og Óttar Nano til þess að breyta kóðanum svo hann skrifi út nöfnin okkar.
+https://github.com/Ottarinn/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
+
 
 Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
