@@ -22,7 +22,7 @@ Skjámyndir af viðmóti meðlima.
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -32,7 +32,14 @@ Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögð
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+Við notum eftirfarandi Open Source hugbúnað:
+
+
+1. Apache Open Office - Apache License 2.0 - ![Alt text](www.openoffice.org)
+2. VLC Media Player - GNU General Public License - ![Alt text](www.videolan.org/vlc/)
+3. Blender - GNU General Public License - ![Alt text](www.blender.org)
+4. Code::Blocks - GNU General Public License - ![Alt text](www.codeblocks.org)
+ 
 
 ## 5. Unnið með Git (2. hluti)
 
