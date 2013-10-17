@@ -39,6 +39,7 @@ Við notum eftirfarandi Open Source hugbúnað:
 2. VLC Media Player - GNU General Public License - www.videolan.org/vlc/
 3. Blender - GNU General Public License - www.blender.org
 4. Code::Blocks - GNU General Public License - www.codeblocks.org
+5. Mozilla Firefox - MPL - www.mozilla.org/firefox
  
 
 ## 5. Unnið með Git (2. hluti)
