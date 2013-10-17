@@ -1,10 +1,24 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
+## Hópmeðlimir
+
+1. Ásgeir Viðar Árnason
+2. Sigurjón Birgisson
+3. Óttar Helgi Einarsson
 
 ## 1. Linux uppsetning
 
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Ásgeir setti Linux Mint 15 upp á minniskubb og það gekk mjög vel og virkaði strax.
+
+Sigurjón setti upp Ubuntu 12.10 VirtualBox. Það voru í upphafi erfiðleikar með nettenginguna en fagaðilar í þjónustuveri skólans fundu út úr því fyrir okkur.
+
+Óttar var þegar með dual boot. Annarsvegar Windows 7 og hinsvegar Ubuntu 12.04 LTS og því var ekkert vesen hjá honum.
+
+Skjámyndir af viðmóti meðlima.
+
+![Alt text](http://i.imgur.com/gJEWQWZ.png)
+![Alt text](http://i.imgur.com/kZTmmBN.png)
+![Alt text](http://i.imgur.com/A3bwgW2.png)
 
 ## 2. Uppsetning á vim && git
 
