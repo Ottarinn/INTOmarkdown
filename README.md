@@ -24,7 +24,7 @@ Skjámyndir af viðmóti meðlima.
 
 Ásgeir náði að setja upp vim villulaust en Óttar lenti í vandræðum með vim sem við og tölvuþjónustan náðum ekki að ráða fram úr. Hann nýtti sér því nano editor. Sigurjon lennti í vandræðum með git vegna nettengingar en við náðum svo að laga það með því að sækja pakkann aftur.
 
-## 3. Unnið með Git (1. hluti)
+## 3. Unnið með Git
 
 Óttar forkaði upprunalega kóðanum fyrst og bjó til aðgang fyrir Ásgeir og Sigurjón. Það gekk vandræðalaust fyrir sig. Sigurjón og Ásgeir notuðu vim til þess að breyta kóðanum en vegna erfiðleika í uppsetningu á vim hjá Óttari notaði hann nano. 
 
