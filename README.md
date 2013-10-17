@@ -22,14 +22,19 @@ Skjámyndir af viðmóti meðlima.
 
 ## 2. Uppsetning á vim && git
 
-Ásgeir náði að setja upp vim villulaust en Óttar lennti í vandræðum með vim sem við og tölvuþjónustan náði ekki að ráða fram úr svo hann nýtti sér nano editor. Sigurjon lennti í vandræðum með git vegna nettengingar en við náðum svo að laga það með því að sækja pakkann aftur.
+Ásgeir náði að setja upp vim villulaust en Óttar lenti í vandræðum með vim sem við og tölvuþjónustan náðum ekki að ráða fram úr. Hann nýtti sér því nano editor. Sigurjon lennti í vandræðum með git vegna nettengingar en við náðum svo að laga það með því að sækja pakkann aftur.
 
 ## 3. Unnið með Git (1. hluti)
 
-Óttar forkaði fyrstur og bjó til lykilorð fyrir Ásgeir og Sigurjon og gekk það vandraeðalaust fyrir sig. Við nýttum svo tveir vim en Óttar notaði Nano til þess að breyta kóðanum svo hann skrifi út nöfnin okkar.
-https://github.com/Ottarinn/INTOPrufa
+Óttar forkaði upprunalega kóðanum fyrst og bjó til aðgang fyrir Ásgeir og Sigurjón. Það gekk vandræðalaust fyrir sig. Sigurjón og Ásgeir notuðu vim til þess að breyta kóðanum en vegna erfiðleika í uppsetningu á vim hjá Óttari notaði hann nano. 
+
+Það var þægilegt og einfalt að vinna með git. 
+
+Breytingar okkar á NIM.cpp má finna hér : https://github.com/Ottarinn/INTOPrufa
 
 ## 4. Uppsettur hugbúnaður
+
+Við notum, meðal annars, eftirfarandi Open Source hugbúnað.
 
 1. Apache Open Office - Apache License 2.0 - www.openoffice.org
 2. VLC Media Player - GNU General Public License - www.videolan.org/vlc/
@@ -37,7 +42,3 @@ https://github.com/Ottarinn/INTOPrufa
 4. Code::Blocks - GNU General Public License - www.codeblocks.org
 5. Mozilla Firefox - MPL - www.mozilla.org/firefox
  
-
-## 5. Unnið með Git (2. hluti)
-
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
